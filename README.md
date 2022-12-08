@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Resume / Project
-
-⚡[이력서 바로가기](https://jyyoon0615.notion.site/_-28e6980b774b443c9eff468ce0ed7590)
+### Project
 
 ⚡[포트폴리오 바로가기](https://jyyoon0615.notion.site/_-5a4827447a66470fbcc19fa496efe107)
 
