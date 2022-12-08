@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 ### Contact
 
-⚡email: jyyoon0615@naver.com
-
-⚡Blog: [https://jiyongyoon.github.io/](https://jiyongyoon.github.io/)
+⚡email: jyyoon0615@naver.com    ⚡Blog: [https://jiyongyoon.github.io/](https://jiyongyoon.github.io/)
 
 ---
 
@@ -39,7 +37,7 @@ Here are some ideas to get you started:
 
 ### Project
 
-⚡[포트폴리오 바로가기](https://jyyoon0615.notion.site/_-5a4827447a66470fbcc19fa496efe107)
+⚡[포트폴리오 바로가기](https://jyyoon0615.notion.site/_-5a4827447a66470fbcc19fa496efe107)    ⚡[프로젝트 github 바로가기](https://github.com/RE-ZERO-In-And-Out/In-And-Out.git)
 
 ---
 
