@@ -1,4 +1,4 @@
-### 안녕하세요, Java 개발자 윤지용입니다. 👋
+### 안녕하세요, 백엔드 개발자 윤지용입니다. 👋
 
 <!--
 **jiyongYoon/jiyongYoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### Contact
 
-⚡email: jyyoon0615@naver.com    ⚡Blog: [https://jiyongyoon.github.io/](https://jiyongyoon.github.io/)
+⚡email: jyyoon0615@naver.com
 
 ---
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 ![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-sqaure&logo=springBoot&logoColor=white)
 ![spring-data-jpa](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-sqaure&logo=hibernate&logoColor=white)
 ![querydsl](https://img.shields.io/badge/QueryDSL-5d9bb9?style=flat-sqaure&logo=ApacheECharts&logoColor=white)
+![keycloak](https://img.shields.io/badge/keycloak-4D4D4D?style=flat-sqaure&logo=keycloak&logoColor=white)
 <!-- <img src="https://img.shields.io/badge/Spring%20REST%20Doc-6DB33F?style=flat-sqaure&logo=spring&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-sqaure&logo=springSecurity&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=flat-sqaure&logo=bookStack&logoColor=white"> -->
@@ -36,6 +37,9 @@ Here are some ideas to get you started:
 <!-- <img src="https://img.shields.io/badge/OAuth2-EC1C24?style=flat-sqaure&logo=Authy&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-sqaure&logo=rabbitMq&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/Stomp-3b5c6b?style=flat-sqaure&logo=Lospec&logoColor=white"> -->
+![langchain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-sqaure&logo=langchain&logoColor=white)
+
+
 
 ### Database
 ![postgresql](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-sqaure&logo=PostgreSQL&logoColor=white)
@@ -47,12 +51,13 @@ Here are some ideas to get you started:
 ### CI/CD
 
 ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&logo=docker&logoColor=white)
+![jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-sqaure&logo=Jenkins&logoColor=white)
 <!-- <img src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?style=flat-sqaure&logo=amazonAWS&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-sqaure&logo=amazonEC2&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-sqaure&logo=amazonS3&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-sqaure&logo=amazonRDS&logoColor=white"> -->
 <!-- <img src="https://img.shields.io/badge/NGINX-009639?style=flat-sqaure&logo=nginx&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-sqaure&logo=Jenkins&logoColor=white"> -->
+
 
 
 <!--
@@ -65,7 +70,7 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/e1500726b022f759d8ece0166d7c146a81ced17fb207ae4763d9d68ff16575f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666c61742d737161757265266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Docker-2496ED?style=flat-sqaure&amp;logo=docker&amp;logoColor=white" style="max-width: 100%;">  <img src="https://camo.githubusercontent.com/41e7772279691487576f8e6892b1c4a3be96c2d86a2e1fa777f158aa28ab52b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a656e6b696e732d4432343933393f7374796c653d666c61742d737161757265266c6f676f3d4a656e6b696e73266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jenkins-D24939?style=flat-sqaure&amp;logo=Jenkins&amp;logoColor=white" style="max-width: 100%;">  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=flat&logo=Amazon EC2&logoColor=white" />  <img src="https://camo.githubusercontent.com/c0ca2cf082c453b516c646405b8c8ec9bcc52ba00ef7bf6b7a3e21bd27750e41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4157532532305244532d3532374646463f7374796c653d666c61742d737161757265266c6f676f3d616d617a6f6e524453266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/AWS%20RDS-527FFF?style=flat-sqaure&amp;logo=amazonRDS&amp;logoColor=white" style="max-width: 100%;">  <img src="https://camo.githubusercontent.com/e1b339e6af8ad8fe29af009307ec959397916548464f2f9757883ead315face1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41575325323053332d3536394133313f7374796c653d666c61742d737161757265266c6f676f3d616d617a6f6e5333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat-sqaure&amp;logo=amazonS3&amp;logoColor=white" style="max-width: 100%;"> 
 
 <img src="https://camo.githubusercontent.com/fd6b227fef8e2cd13eac4912e29d5b1bfc6e9250ae9b3376d110aec2eea18ba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537761676765722d3835454132443f7374796c653d666c61742d737161757265266c6f676f3d73776167676572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-sqaure&amp;logo=swagger&amp;logoColor=white" style="max-width: 100%;">
--->
+
 ---
 
 ### Project
@@ -75,7 +80,7 @@ Here are some ideas to get you started:
 ⚡[포트폴리오 바로가기](https://jyyoon0615.notion.site/_-5a4827447a66470fbcc19fa496efe107)    ⚡[프로젝트 github 바로가기](https://github.com/RE-ZERO-In-And-Out/In-And-Out.git)
 
 ---
-
+-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiyongYoon)](https://github.com/jiyongYoon/github-readme-stats)[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyongYoon)](https://github.com/joyongYoon/github-readme-stats)
 
 ---
